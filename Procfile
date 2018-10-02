@@ -1,0 +1,1 @@
+web: Packages/Application/Idun.HerokuEnvironment/Resources/Private/Heroku/dyno-start.sh

@@ -1,0 +1,10 @@
+Neos:
+  Flow:
+    persistence:
+      backendOptions:
+        driver: 'pdo_mysql'
+        dbname: '%env:ENV_DB_NAME%'
+        user: '%env:ENV_DB_USER%'
+        password: '%env:ENV_DB_PASSWORD%'
+        host: '%env:ENV_DB_HOST%'
+        port: '%env:ENV_DB_POR%'

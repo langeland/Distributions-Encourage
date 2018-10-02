@@ -1,0 +1,7 @@
+Neos:
+  Flow:
+    persistence:
+      backendOptions:
+        charset: 'utf8'
+        defaultTableOptions:
+          charset: 'utf8'

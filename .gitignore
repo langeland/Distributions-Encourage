@@ -1,0 +1,14 @@
+/Build/
+/Configuration/
+/Data/
+/Docker/Data/
+/Packages/
+/Web/
+/bin/
+/Readme.rst
+/Upgrading.rst
+/flow
+/flow.bat
+/.env
+/.env~
+/composer.lock
